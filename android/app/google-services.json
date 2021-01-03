@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "175796142637",
+    "project_id": "hostel-mate",
+    "storage_bucket": "hostel-mate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175796142637:android:529d7a2eb0863b092daea4",
+        "android_client_info": {
+          "package_name": "com.example.hostel_mate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175796142637-bdoiu6hn9mu2qk1so2ijt7v677iqfpj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hostel_mate",
+            "certificate_hash": "ab134444bb25378d8e7a9feb0730636c479a08a1"
+          }
+        },
+        {
+          "client_id": "175796142637-bqgdqvtj35n107ju4pjdc03dm90euual.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDybuEDXbV7-hAkIQGhGMJOUFIR_cg9YsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175796142637-bqgdqvtj35n107ju4pjdc03dm90euual.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
